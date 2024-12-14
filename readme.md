@@ -1,7 +1,7 @@
 # Master's Program in Artificial Intelligence 
 ## ISCTE - Instituto Universitário de Lisboa
 ## Student: Filipe Pereira
----
+
 
 Projects completed in the following courses:
 1. Introduction to Machine Learning (4 Assignments and 1 final-project)
