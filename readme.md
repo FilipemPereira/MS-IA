@@ -1,4 +1,6 @@
-# Master's Program in Artificial Intelligence (ISCTE - Instituto Universitário de Lisboa)
+# Master's Program in Artificial Intelligence 
+## ISCTE - Instituto Universitário de Lisboa
+## Student: Filipe Pereira
 ---
 
 Projects completed in the following courses:
