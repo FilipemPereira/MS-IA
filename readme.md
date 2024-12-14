@@ -1,4 +1,4 @@
-# Master's Program in Artificial Intelligence
+# Master's Program in Artificial Intelligence (ISCTE - Instituto Universitário de Lisboa)
 ---
 
 Projects completed in the following courses:
