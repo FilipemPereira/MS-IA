@@ -2,6 +2,7 @@
 ## ISCTE - Instituto Universitário de Lisboa
 ## Student: Filipe Pereira
 
+This program started in September 2024 and will finish in 2026.
 
 Projects completed in the following courses:
 1. Introduction to Machine Learning (4 Assignments and 1 final-project)
